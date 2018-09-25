@@ -1,0 +1,52 @@
+[
+  {
+    "name": "wqeq",
+    "gender": "Male",
+    "email": "sdasdas@email.com",
+    "phone": "ew",
+    "street": "we",
+    "plz": "",
+    "city": "",
+    "dateOfBirth": "",
+    "creditcard": "",
+    "socSecNr": "",
+    "agb": true
+  },
+  {
+    "name": "wqeq",
+    "gender": "Male",
+    "email": "sdasdas@email.coms",
+    "phone": "ew",
+    "street": "we",
+    "plz": "",
+    "city": "",
+    "dateOfBirth": "",
+    "creditcard": "",
+    "socSecNr": "",
+    "agb": true
+  },
+  {
+    "name": "qweq",
+    "email": "weqweq@email.com",
+    "phone": "",
+    "street": "",
+    "plz": "",
+    "city": "",
+    "dateOfBirth": "",
+    "creditcard": "",
+    "socSecNr": "",
+    "agb": true
+  },
+  {
+    "name": "qweq",
+    "email": "weqweq@email.coms",
+    "phone": "",
+    "street": "",
+    "plz": "",
+    "city": "",
+    "dateOfBirth": "",
+    "creditcard": "",
+    "socSecNr": "",
+    "agb": true
+  }
+]

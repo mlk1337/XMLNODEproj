@@ -1,0 +1,12 @@
+[ 	{ "path": "img/gallery/ducks.jpg", "description": "Eine Ente" },
+	{ "path": "img/gallery/fire.jpg", "description": "Ein Feuer" },
+	{ "path": "img/gallery/kings_canyon.jpg", "description": "Der Canyon" },
+	{ "path": "img/gallery/koalas.jpg", "description": "Koalas" },
+	{ "path": "img/gallery/pink_flower.jpg", "description": "Pinke Blume" },
+	{ "path": "img/gallery/stairs.jpg", "description": "Treppen" },
+	{ "path": "img/gallery/uluru.jpg", "description": "Ein Uluru" },
+	{ "path": "img/gallery/yellow_flower.jpg", "description": "Eine gelbe Blume" },
+	{ "path": "img/gallery/italianchef.jpg", "description": "Mhh Pizza" },
+	{ "path": "img/gallery/greatsuccess.jpg", "description": "Yeah!" }
+
+ ]
